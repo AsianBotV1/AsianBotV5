@@ -1,7 +1,7 @@
 {
-  "name": "NK-BOT",
+  "name": "Asian-BOT",
   "version": "5.5.0",
-  "description": "Un bot simple para Whatsapp en español uwu",
+  "description": "Un bot para WhatsApp uwu",
   "main": "nkbot.js",
   "scripts": {
     "start": "node nkbot.js",
@@ -17,7 +17,7 @@
     "bot",
     "whatsapp"
   ],
-  "author": "Matt_Mdz",
+  "author": "billi",
   "license": "GNU",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
